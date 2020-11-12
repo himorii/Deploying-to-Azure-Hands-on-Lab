@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "virtualNetworkId": {
-            "value": "" 
+            "value": "VNet1" 
         },
         "subnetName": {
-            "value": "" 
+            "value": "Subnet-2" 
         },
         "virtualMachineName": {
-            "value": "himorii-Web-SVR2"
+            "value": "Web-SVR2-himorii"
         },
         "windowsOSVersion": {
             "value": "2019-Datacenter"
